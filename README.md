@@ -1,2 +1,2 @@
 # Teacher-Book.
-This is made on Javascript fronted and python backend with
+This is made on Javascript fronted and python backend with flask.
